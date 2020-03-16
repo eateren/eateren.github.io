@@ -16,7 +16,7 @@
         width: 1280,
         height: 720,
         channel: "eateren",
-        
+        layout: "video"
       });
     </script>
   </body>
